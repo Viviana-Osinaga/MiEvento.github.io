@@ -313,6 +313,10 @@ button {
     color:rgb(243, 241, 245);
     padding: 1rem;
 }
+.a-interact2 i:hover {
+    filter: drop-shadow(2px 2px 8px rgb(240, 217, 255));
+    cursor: pointer;
+}
 .interact2 button a{
     text-decoration: none;
     color:rgb(127, 124, 130);
