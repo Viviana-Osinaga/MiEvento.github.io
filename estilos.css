@@ -42,7 +42,7 @@ li a {
 
 }
 li a:hover {
-    text-shadow: 6px 6px 5px rgb(243, 241, 245);
+    text-shadow: 2px 2px 4px rgb(243, 241, 245);
 }
 
 /*  HOME  */
